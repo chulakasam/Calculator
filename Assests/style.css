@@ -42,3 +42,11 @@ button {
 button:hover {
     background-color: #ccc;
 }
+
+.topic{
+    position: absolute;
+    margin: auto;
+    top: 100px;
+    left: 830px;
+    font-size: 45px
+}
